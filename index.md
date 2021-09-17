@@ -7,3 +7,5 @@ Card game lovers watch out!
 This is the perfect app for your game evenings. Track the current scores and provides various statistics for all games.
 
 ## _Coming soon to the AppStore_
+
+[Privacy Policy](/pages/privacy.md) [Terms & Conditions](/pages/terms.md)
