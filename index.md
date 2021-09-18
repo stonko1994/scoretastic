@@ -8,4 +8,6 @@ This is the perfect app for your game evenings. Track the current scores and pro
 
 ## _Coming soon to the AppStore_
 
-[Privacy Policy](/pages/privacy.md) [Terms & Conditions](/pages/terms.md)
+Open questions? Reach out on Twitter [@ScoretasticApp](https://twitter.com/scoretasticapp)
+
+[Privacy Policy](/pages/privacy.md) | [Terms & Conditions](/pages/terms.md)
